@@ -112,4 +112,4 @@ Top predictors were:
 ## Author
 
 **Synthia Pial**
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Portfolio](https://datascienceportfol.io/synthiapial3152) 
+ [Portfolio](https://datascienceportfol.io/synthiapial3152) | [LinkedIn](www.linkedin.com/in/synthia-pial-027a63b2)
